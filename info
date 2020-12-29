@@ -1,0 +1,8 @@
+Amazon/cloud Services: BeanStalk <---> S3/RDS/Athena, fortinet(firewall), ssl encryption of data in transit and in db(S3 keys, KMS or user keys). AWS Athena, Quicksight to visualize the data, jumio for security check, payment service: stripe,Adyen
+Kubernetes for scaling.
+
+Amazon CloudWatch: monitoring and observability service, provides a unified view of AWS resources, applications, and services that run on AWS and on-premises servers.
+
+AWS CloudTrail: CloudTrail is a service which provides event history of your AWS account activity, including actions taken through the AWS Management Console, AWS SDKs, command line tools, and other AWS services.
+
+Amazon RDS: Amazon service which makes it easy to set up, operate, and scale a relational database in the cloud. It provides with six familiar database engines to choose from, including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database, and SQL Server.
